@@ -1,0 +1,19 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser": "^0.2.6",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.2.1",
+    "react-core": "0.0.0",
+    "react-dom": "^15.2.1",
+    "webpack": "^1.13.1"
+  }
+}
